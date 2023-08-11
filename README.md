@@ -1,4 +1,4 @@
-# Entertaner-Data-Analysis
+# Entertainer-Data-Analysis
 
 Hello all,
 
